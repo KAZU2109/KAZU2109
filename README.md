@@ -1,7 +1,7 @@
 # Hi Git People
  
 
-My name **Zainul Muttaqiin**.\
+My name is **Zainul Muttaqiin**.
 
 I am **Data Science enthusiasm**, 
 
