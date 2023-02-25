@@ -3,7 +3,7 @@
 
 My name is **Zainul Muttaqiin**.
 
-I am **Data Science enthusiasm**, 
+I am **Data Science enthusiast**, 
 
 Undergraduate Informatics Students at Amikom Yogyakarta,
 
